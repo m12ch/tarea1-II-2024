@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: yellow;
+}
+h1{
+    color: red;
+    font-family: monospace;
+    
+}
+h2{
+    color: blue;
+
+}
+img{
+    width: 350px;
+    height: 180px;
+}
+p{
+    color: blueviolet;
+    background-color: azure;
+}
